@@ -6,7 +6,7 @@ This repository contains the analysis and findings from a statistical theory pro
 ## Contents
 - `dementia_analysis_notebook.ipynb`: Jupyter notebook containing the analysis, including data processing, statistical tests, and visualizations.
 - `Statistical Theory Final Project.pdf`: Final report of the project, detailing methodology, results, and conclusions.
-- `dementia-prediction-dataset/`: Directory containing the dataset used for analysis.
+- `data/`: Directory containing the dataset used for analysis.
 - Other visualizations and supplementary materials.
 
 ## Requirements
